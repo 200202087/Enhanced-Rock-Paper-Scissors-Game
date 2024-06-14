@@ -1,5 +1,14 @@
 # Enhanced Rock-Paper-Scissors Game
 
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+3. [Class Structure](#class-structure)
+4. [How to Run the Game](#how-to-run-the-game)
+6. [Acknowledgements](#acknowledgements)
+8. [Codes](#codes)
+
 ## Project Overview
 
 This project is an advanced version of the classic Rock-Paper-Scissors game, implemented using Java and Object-Oriented Programming (OOP) principles. The game introduces new elements and rules to add complexity and excitement to the traditional game.
@@ -69,3 +78,7 @@ The game is structured using multiple classes to represent different components 
 ## Acknowledgments
 
 This project was developed as part of a university course on Object-Oriented Programming. Special thanks to the course instructors and classmates for their support and feedback.
+
+## Codes
+
+You can review the project codes [here](/src/prolab2).
